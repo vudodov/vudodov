@@ -1,8 +1,8 @@
 👋 Hey there!
 
 My name is Val.
-I’m a hands-on architect, full-stack software engineer.
-I'm also blog occasioanlly, so check out my [Tech Blog](https://valerii-udodov.com/)
+I’m a hands-on architect and full-stack software engineer. 
+I also blog occasionally -> [Tech Blog](https://valerii-udodov.com/)
 
 Big fan and adopter of domain-driven design.
 Event-driven architecture evangelist.

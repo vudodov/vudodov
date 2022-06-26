@@ -6,9 +6,9 @@ I also blog occasionally -> [Tech Blog](https://valerii-udodov.com/)
 
 Big fan and adopter of domain-driven design.
 Event-driven architecture evangelist.
-I’m a strong supporter of the re-factoring as a routine approach.
-I’m not too big on any particular technology, however I do spend most of the time with C#, JavaScript, F#, GoLang and all bells and whistles around it.
+I’m a strong supporter of re-factoring as a routine approach.
+I’m not too big on any particular technology.
 
-I love to be engaged in the full software development cycle. From collaboration and planning and white-boarding, all the way to the release, feedback, re-factoring.
+I love to be engaged in the full software development cycle. From discovery/inception phase, through the white-boarding and planning, all the way to the release, feedback and re-factoring.
 
 I’m always open for a chat, so shoot me an email ;)
